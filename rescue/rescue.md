@@ -5,6 +5,8 @@ subtitle: 'Rescue documentation'
 date: '2017-09-24'
 institution: 'Lillebaelt Academy'
 email: 'mart80c7@edu.eal.dk'
+left-header: \today
+right-header: Rescue documentation
 ---
 
 # Introduction
